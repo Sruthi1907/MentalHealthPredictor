@@ -17,15 +17,15 @@ MentalHealthPredictor/
 
 ## 📄 Research Paper
 
-A detailed research paper is included in the repository:  
-📘 **[Research_Paper.pdf]([./Research_Paper.pdf](https://github.com/Sruthi1907/MentalHealthPredictor/blob/main/Mental_Health_final_paper.pdf))**
+A full research paper is included and can be accessed here:  
+📘 **[Mental_Health_final_paper.pdf](https://github.com/Sruthi1907/MentalHealthPredictor/blob/main/Mental_Health_final_paper.pdf)**
 
 It covers:
-- Literature review on mental health in tech
-- Data description and cleaning
-- Methodology and algorithms used
-- Experimental results and discussion
-- Conclusions and future work
+- Background and motivation
+- Dataset overview
+- Methodology and preprocessing
+- Machine learning models and evaluation
+- Results, analysis, and future scope
 
 This document can be referenced for academic or presentation purposes.
 
