@@ -15,6 +15,20 @@ MentalHealthPredictor/
 └── .gitignore # Files to ignore during git pushes
 
 
+## 📄 Research Paper
+
+A detailed research paper is included in the repository:  
+📘 **[Research_Paper.pdf]([./Research_Paper.pdf](https://github.com/Sruthi1907/MentalHealthPredictor/blob/main/Mental_Health_final_paper.pdf))**
+
+It covers:
+- Literature review on mental health in tech
+- Data description and cleaning
+- Methodology and algorithms used
+- Experimental results and discussion
+- Conclusions and future work
+
+This document can be referenced for academic or presentation purposes.
+
 ## 🔍 Dataset
 
 - **Source**: Kaggle — OSMI Mental Health in Tech Survey  
